@@ -39,10 +39,3 @@
 
 ---
 
-## 🛠️ Instalacja i Uruchomienie (Wersja Deweloperska)
-
-1. **Sklonuj repozytorium lub pobierz pliki projektu.**
-2. **Utwórz i aktywuj środowisko wirtualne:**
-   ```cmd
-   python -m venv .venv
-   call .venv\Scripts\activate.bat
