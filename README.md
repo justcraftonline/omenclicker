@@ -1,0 +1,2 @@
+# omenclicker
+autoclicker
